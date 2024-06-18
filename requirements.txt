@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+jinja2
+requests
+opencv-python
+chromadb
+passlib
+fastapi sqlalchemy pydantic
+sqlalchemy
+pyjwt
